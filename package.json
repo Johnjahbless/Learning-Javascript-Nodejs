@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "nodemon": "nodemon demo.js"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
